@@ -4,9 +4,7 @@ Information about decimal type of service number introduced class
 
 Usage:
 
-$tos = '184';
-print_r(Network::tos_info($tos));
-
+```
 Array
 (
     [ToS] => Array
@@ -46,3 +44,4 @@ Array
         )
 
 )
+```
